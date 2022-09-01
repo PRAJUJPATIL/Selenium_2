@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+    <line>
+      <![CDATA[Function TestCase3]]>
+    </line>
+    <line>
+      <![CDATA[Function TestCase1]]>
+    </line>
+    <line>
+      <![CDATA[Function TestCase2]]>
+    </line>
+    <line>
+      <![CDATA[Function Test Case4]]>
+    </line>
+    <line>
+      <![CDATA[Function Test Case5]]>
+    </line>
+    <line>
+      <![CDATA[Function Test Case6]]>
+    </line>
+    <line>
+      <![CDATA[Integratio TestCase1]]>
+    </line>
+    <line>
+      <![CDATA[Integratio TestCase2]]>
+    </line>
+    <line>
+      <![CDATA[Integratio TestCase3]]>
+    </line>
+    <line>
+      <![CDATA[Integratio Test Case4]]>
+    </line>
+    <line>
+      <![CDATA[Integratio Test Case5]]>
+    </line>
+    <line>
+      <![CDATA[Integratio Test Case6]]>
+    </line>
+    <line>
+      <![CDATA[Smoke TestCase1]]>
+    </line>
+    <line>
+      <![CDATA[Smoke TestCase2]]>
+    </line>
+    <line>
+      <![CDATA[Smoke TestCase3]]>
+    </line>
+    <line>
+      <![CDATA[Smoke Test Case4]]>
+    </line>
+    <line>
+      <![CDATA[Smoke Test Case5]]>
+    </line>
+    <line>
+      <![CDATA[Smoke Test Case6]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="178" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+    <groups>
+      <group name="Functional">
+        <method signature="Groupsflags.f31()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="f31" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.ft1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft1" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.ft2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft2" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.ft4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft4" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.ft5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft5" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.ft6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft6" class="TestNG.Groupsflags"/>
+      </group> <!-- Functional -->
+      <group name="Integration">
+        <method signature="Groupsflags.it1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it1" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.it2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it2" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.it3()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it3" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.it4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it4" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.it5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it5" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.it6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it6" class="TestNG.Groupsflags"/>
+      </group> <!-- Integration -->
+      <group name="Smoke">
+        <method signature="Groupsflags.sm1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm1" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.sm2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm2" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.sm3()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm3" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.sm4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm4" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.sm5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm5" class="TestNG.Groupsflags"/>
+        <method signature="Groupsflags.sm6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm6" class="TestNG.Groupsflags"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="178" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+      <class name="TestNG.Groupsflags">
+        <test-method status="PASS" signature="f31()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="f31" duration-ms="16" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function TestCase3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f31 -->
+        <test-method status="PASS" signature="ft1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft1" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function TestCase1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method status="PASS" signature="ft2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft2" duration-ms="1" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function TestCase2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method status="PASS" signature="ft4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft4" duration-ms="3" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function Test Case4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft4 -->
+        <test-method status="PASS" signature="ft5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft5" duration-ms="4" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function Test Case5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft5 -->
+        <test-method status="PASS" signature="ft6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="ft6" duration-ms="1" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Function Test Case6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft6 -->
+        <test-method status="PASS" signature="it1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it1" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio TestCase1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method status="PASS" signature="it2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it2" duration-ms="3" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio TestCase2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method status="PASS" signature="it3()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it3" duration-ms="1" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio TestCase3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method status="PASS" signature="it4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it4" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio Test Case4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it4 -->
+        <test-method status="PASS" signature="it5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it5" duration-ms="1" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio Test Case5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it5 -->
+        <test-method status="PASS" signature="it6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="it6" duration-ms="3" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Integratio Test Case6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it6 -->
+        <test-method status="PASS" signature="sm1()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm1" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke TestCase1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm1 -->
+        <test-method status="PASS" signature="sm2()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm2" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke TestCase2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm2 -->
+        <test-method status="PASS" signature="sm3()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm3" duration-ms="0" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke TestCase3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm3 -->
+        <test-method status="PASS" signature="sm4()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm4" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke Test Case4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm4 -->
+        <test-method status="PASS" signature="sm5()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm5" duration-ms="1" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke Test Case5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm5 -->
+        <test-method status="PASS" signature="sm6()[pri:0, instance:TestNG.Groupsflags@27a8c74e]" name="sm6" duration-ms="2" started-at="2022-08-30T14:13:35 IST" finished-at="2022-08-30T14:13:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke Test Case6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sm6 -->
+      </class> <!-- TestNG.Groupsflags -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
